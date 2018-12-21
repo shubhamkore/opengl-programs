@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545301707 source:c:\program files (x86)\codeblocks\c++ practise basic programs\simple rectringle\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
